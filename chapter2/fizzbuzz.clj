@@ -11,3 +11,4 @@
 (println (fizzbuzz 3))
 (println (fizzbuzz 5))
 (println (fizzbuzz 15))
+(println (map fizzbuzz (range 1 16)))
